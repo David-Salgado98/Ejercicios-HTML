@@ -1,0 +1,19 @@
+/* table {
+    text-align: center;
+    border: 10px solid black;
+    border-right: 10px solid blue;
+    border-left: 10px dotted red;
+    border-top: 10px solid pink;
+    
+
+} */
+
+td,th {
+    text-align: center;
+    border: 5px solid #FFAB0D;
+}
+
+.tablaStyle{
+    text-align: center;
+    border:10px solid #751807;
+}
